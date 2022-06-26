@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj": {}
+    "c:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj": {}
   },
   "projects": {
-    "C:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj": {
+    "c:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj",
+        "projectUniqueName": "c:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj",
         "projectName": "Presentation.Api",
-        "projectPath": "C:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj",
+        "projectPath": "c:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj",
         "packagesPath": "C:\\Users\\Thiago Santos\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\obj\\",
+        "outputPath": "c:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thiago Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",

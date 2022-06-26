@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj": {}
+    "c:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj": {}
   },
   "projects": {
-    "C:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj": {
+    "c:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj",
+        "projectUniqueName": "c:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj",
         "projectName": "Domain.Model",
-        "projectPath": "C:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj",
+        "projectPath": "c:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\Domain.Model.csproj",
         "packagesPath": "C:\\Users\\Thiago Santos\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\obj\\",
+        "outputPath": "c:\\repo\\recommendation-system\\src\\1.3 - Domain\\Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thiago Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",

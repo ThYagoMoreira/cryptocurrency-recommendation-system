@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZlgFInPThRjcOJPtOV1Mt15fqXQ63/hTwAtAELxv8xVHJQYwh1F3r6ZxDNBQRqE480SYZlOutf5jHk2EXmSXMg==",
+  "dgSpecHash": "nWgzMb4Bv/YnnoTF3rAOkv7vNvPHIffsihi/vq+rdG/Aa9jZg1ZMpN6jVbJUcSbLYLWgSVEWO52yc7qTDwm+gQ==",
   "success": true,
-  "projectFilePath": "C:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj",
+  "projectFilePath": "c:\\repo\\recommendation-system\\src\\1.1 - Presentation\\Presentation.Api\\Presentation.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thiago Santos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Thiago Santos\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
