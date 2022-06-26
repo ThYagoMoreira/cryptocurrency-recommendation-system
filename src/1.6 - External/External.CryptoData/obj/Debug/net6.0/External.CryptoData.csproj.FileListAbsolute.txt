@@ -1,0 +1,12 @@
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\bin\Debug\net6.0\External.CryptoData.deps.json
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\bin\Debug\net6.0\External.CryptoData.dll
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\bin\Debug\net6.0\External.CryptoData.pdb
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\External.CryptoData.csproj.AssemblyReference.cache
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\External.CryptoData.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\External.CryptoData.AssemblyInfoInputs.cache
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\External.CryptoData.AssemblyInfo.cs
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\External.CryptoData.csproj.CoreCompileInputs.cache
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\External.CryptoData.dll
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\refint\External.CryptoData.dll
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\External.CryptoData.pdb
+C:\repo\recommendation-system\src\1.6 - External\External.CryptoData\obj\Debug\net6.0\ref\External.CryptoData.dll
